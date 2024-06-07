@@ -9,7 +9,7 @@
 
 - 🤝 I’m currently study in **2nd year Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://mdibrahimayub.netlify.app/](https://mdibrahimayub.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mdibrahimayub.netlify.app/](https://mdibrahimayub.github.io/My-Portfolio/)
 
 - 📝 I regularly write articles on [linkedin](linkedin)
 
