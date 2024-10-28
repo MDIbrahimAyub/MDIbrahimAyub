@@ -1,5 +1,5 @@
 <!-- Title and Introduction -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ibrahim</h1>
 <h3 align="center">A passionate developer proficient in Frontend and Web Technologies.</h3>
 
 <p align="center">
