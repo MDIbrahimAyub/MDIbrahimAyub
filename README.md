@@ -4,15 +4,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/your-username?tab=followers"><img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Followers" /></a>
 </p>
 
 ---
 
 <!-- About Me -->
 - 🌱 I’m currently learning **Vite, Tailwind CSS, and React.js**  
-- 👨‍💻 All of my projects are available at [https://github.com/your-username](https://github.com/your-username)  
-- 📫 How to reach me **your-email@example.com**  
+- 👨‍💻 All of my projects are available at [https://github.com/your-username](https://github.com/MDIbrahimAyub)  
+- 📫 How to reach me **ibrahimayub2418@gmai.com**  
 - ⚡ Fun fact: I'm a coding enthusiast who loves creating aesthetic and responsive UIs.
 
 ---
