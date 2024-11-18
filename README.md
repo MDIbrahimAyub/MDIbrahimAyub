@@ -24,8 +24,9 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-vite-js-next-generation-frontend-tooling-logo-color-tal-revivo.png" alt="Vite" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSovn0IsdnCJmsWc-TGHeW8XwhfwpspYq_xQ&s" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="Vite" width="40" height="40"/>
+   <img src="https://www.gstatic.com/devrel-devsite/prod/vc38a15f5a89ceb3dee5ad4d2d7b57b718d8556c0e3724a12c131a2b9d037d8c7/firebase/images/touchicon-180.png" alt="Fire Base" width="40" height="40"/>
   <!-- Add more icons as needed -->
 </p>
 
@@ -45,7 +46,7 @@
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical" alt="GitHub Trophies" />
+  <img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -54,7 +55,7 @@
 ### 📈 Recent GitHub Activity:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://repository-images.githubusercontent.com/268364436/5dd6da80-a359-11ea-9abe-8829ad977115" alt="GitHub Streak" />
 </p>
 
 ---
